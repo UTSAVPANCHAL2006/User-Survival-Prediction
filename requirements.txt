@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+fastapi
+uvicorn
+google-cloud-storage
+xgboost
